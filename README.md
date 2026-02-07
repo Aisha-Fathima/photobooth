@@ -19,7 +19,7 @@ An underwater-themed photobooth web application built with vanilla HTML, CSS, an
 ### How to run the project locally
 1. Open a terminal in your project folder:
    ```bash
-   cd path/to/photobooth-github-tutorial
+   cd path/to/photobooth
    npx serve
 2. Open the URL shown in the terminal (usually http://localhost:3000) in a browser.
 
